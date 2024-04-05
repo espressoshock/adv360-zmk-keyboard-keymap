@@ -80,7 +80,7 @@
 
         equal {
             bindings = <&kp EQUAL>;
-            key-positions = <66>;
+            key-positions = <66 44>;
         };
 
         lpar {
@@ -110,7 +110,7 @@
 
         rpar {
             bindings = <&kp RIGHT_PARENTHESIS>;
-            key-positions = <57>;
+            key-positions = <57 66>;
         };
     };
 
