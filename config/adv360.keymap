@@ -47,11 +47,11 @@
 
         MAC_LAYOUT {
             bindings = <
-&kp EQUAL     &kp N1     &kp N2      &kp N3    &kp N4     &kp N5  &kp C_MUTE                                                                              &mo 4      &kp N6  &kp N7  &kp N8     &kp N9    &kp N0             &kp MINUS
-&kp TAB       &kp Q      &kp W       &kp E     &kp R      &kp T   &kp C_VOL_UP                                                                            &trans     &kp Y   &kp U   &kp I      &kp O     &kp P              &kp BSLH
-&lt 5 ESCAPE  &kp A      &kp S       &kp D     &kp F      &kp G   &kp C_VOL_DN  &kp LEFT_CONTROL  &mo 2             &kp RIGHT_COMMAND  &kp RIGHT_CONTROL  &to 0      &kp H   &kp J   &kp K      &kp L     &kp SEMI           &kp SQT
-&kp LSHFT     &kp Z      &kp X       &kp C     &kp V      &kp B                                   &kp LEFT_ALT      &kp RIGHT_ALT                                    &kp N   &kp M   &kp COMMA  &kp DOT   &kp FSLH           &kp RIGHT_SHIFT
-&mo 3         &kp GRAVE  &caps_word  &kp LEFT  &kp RIGHT          &kp BSPC      &lt 6 TAB         &kp LEFT_GUI      &kp RIGHT_GUI      &lt 6 ENTER        &kp SPACE          &kp UP  &kp DOWN   &kp LBKT  &kp RIGHT_BRACKET  &mo 3
+&kp EQUAL     &kp N1     &kp N2      &kp N3    &kp N4     &kp N5  &kp C_MUTE                                                                           &mo 4      &kp N6  &kp N7  &kp N8     &kp N9    &kp N0             &kp MINUS
+&kp TAB       &kp Q      &kp W       &kp E     &kp R      &kp T   &kp C_VOL_UP                                                                         &trans     &kp Y   &kp U   &kp I      &kp O     &kp P              &kp BSLH
+&lt 5 ESCAPE  &kp A      &kp S       &kp D     &kp F      &kp G   &kp C_VOL_DN  &kp LEFT_CONTROL  &kp LA(LCTRL)      &kp RA(RCTRL)  &kp RIGHT_CONTROL  &to 0      &kp H   &kp J   &kp K      &kp L     &kp SEMI           &kp SQT
+&kp LSHFT     &kp Z      &kp X       &kp C     &kp V      &kp B                                   &kp LEFT_ALT       &kp RIGHT_ALT                                &kp N   &kp M   &kp COMMA  &kp DOT   &kp FSLH           &kp RIGHT_SHIFT
+&mo 3         &kp GRAVE  &caps_word  &kp LEFT  &kp RIGHT          &kp BSPC      &lt 6 TAB         &kp LEFT_GUI       &kp RIGHT_GUI  &lt 6 ENTER        &kp SPACE          &kp UP  &kp DOWN   &kp LBKT  &kp RIGHT_BRACKET  &mo 3
             >;
         };
 
